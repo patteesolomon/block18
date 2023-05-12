@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1683890180474" clover="3.2.0">
+  <project timestamp="1683890180474" name="All files">
+    <metrics statements="15" coveredstatements="15" conditionals="7" coveredconditionals="4" methods="5" coveredmethods="5" elements="27" coveredelements="24" complexity="0" loc="15" ncloc="15" packages="1" files="3" classes="3"/>
+    <file name="accountChecks.js" path="C:\Users\azuka\OneDrive\Documents\tutCodebase\New folder\testing\accountChecks.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+    </file>
+    <file name="concatOdds.js" path="C:\Users\azuka\OneDrive\Documents\tutCodebase\New folder\testing\concatOdds.js">
+      <metrics statements="11" coveredstatements="11" conditionals="7" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="cond" truecount="0" falsecount="1"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="10" type="cond" truecount="4" falsecount="0"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="11" count="1" type="cond" truecount="0" falsecount="2"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="8" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
+    <file name="mult.js" path="C:\Users\azuka\OneDrive\Documents\tutCodebase\New folder\testing\mult.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
